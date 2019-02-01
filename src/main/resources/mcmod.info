@@ -1,0 +1,18 @@
+[
+{
+  "modid": "customcubictcfix",
+  "name": "CustomCubicTCFix",
+  "description": "Small mod to fix thaumcraft vis not generating in custom cubic worlds",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CursedFlames"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "useDependencyInformation": true,
+  "requiredMods": ["cubicchunks"],
+  "dependencies": ["cubicchunks", "thaumcraft"]
+}
+]
